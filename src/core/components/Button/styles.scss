@@ -1,0 +1,12 @@
+.btn-styled {
+    color: white;
+    background-color: #1890ff;
+    width: 101px;
+    height: 40px;
+    border: none;
+
+    &:hover{
+        border: #1890ff 1px solid;
+        transition-duration: 0.8s;     
+    }
+}

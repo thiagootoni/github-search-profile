@@ -1,0 +1,17 @@
+.main-nav {
+    height: 70px;
+    align-items: center;
+    padding-left: 40px;
+    margin-left: 0;
+    margin-right: 0;
+    background-color: #1890ff;
+
+    &:hover {
+        text-decoration: none;
+        color: white;
+    }    
+}
+
+.nav-logo-text {
+    color: white;
+}

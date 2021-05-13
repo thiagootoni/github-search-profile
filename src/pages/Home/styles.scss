@@ -1,0 +1,27 @@
+.descritive {
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 36px;
+    /* or 180% */
+
+    color: #5a6774;
+    margin-bottom: 55px;
+}
+
+.container{
+    padding-top: 100px;
+    
+}
+
+.title{
+    margin-bottom: 24px;
+}
+
+span{
+    color: #1890FF;
+
+    &:hover{
+        cursor: pointer;
+    }
+}
